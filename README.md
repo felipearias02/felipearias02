@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Juan Felipe Arias Aranguren</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+aut%C3%B3nomo;Amante+de+los+sistemas+operativos+y+bases+de+datos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas" alt="Typing SVG" />
 </p>
 
 ---
