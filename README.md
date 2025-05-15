@@ -21,8 +21,8 @@
 ### 💻 Tecnologías que manejo
 
 ```bash
-Lenguajes      🔹 JavaScript | SQL | Bash | Python
-Frontend       🎨 HTML | CSS | Bootstrap
+Lenguajes      🔹 JavaScript | Swift | Kotlin | Python
+Frontend       🎨 HTML | CSS | JS | Bootstrap
 Backend        ⚙️ Node.js
 Bases de Datos 🛢️ MySQL | MariaDB | MongoDB
 Dev Tools      🛠️ Git | GitHub | Visual Studio Code | AWS | Linux (WSL, Ubuntu, Kali-Linux)
