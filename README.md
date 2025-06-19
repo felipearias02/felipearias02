@@ -10,7 +10,7 @@
 
 - 🎓 Soy estudiante de **Ingeniería de Sistemas** en la **Universidad EAN** (Bogotá, Colombia)
 - 🧠 Me considero una persona curiosa, autodidacta y en constante evolución en el aprendizaje.
-- 🎓 Soy estudiante activo de plataformas como **Platzi** y **Coursera**, haciendo cursos para certificarme como DBA con **IBM**.
+- 🎓 Soy estudiante activo de plataformas como **Platzi** haciendo cursos para certificarme en el futuro como DBA.
 - 🖥️ Apasionado por los sistemas operativos, el hardware, y el poder del software libre
 - 🗃️ Aprendiz de bases de datos relacionales y no relacionales
 - 🤖 Me encanta aprender sobre automatización de procesos, interfaces, tecnologías emergentes, LLMs, y robots con Arduino.
@@ -21,8 +21,6 @@
 ### 💻 Tecnologías que manejo
 
 ```bash
-Lenguajes      🔹 JavaScript | Swift | Kotlin | Python
-Frontend       🎨 HTML | CSS | JS | Bootstrap
-Backend        ⚙️ Node.js
+Lenguajes      🔹 Python Basico
 Bases de Datos 🛢️ MySQL | MariaDB | MongoDB
 Dev Tools      🛠️ Git | GitHub | Visual Studio Code | AWS | Linux (WSL, Ubuntu, Kali-Linux)
