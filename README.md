@@ -12,7 +12,6 @@
 - Me considero una persona curiosa, autodidacta y en constante aprendizaje.
 - Soy apasionado por los sistemas operativos, como se construyó y se sigue mejorando el kernel de Linux y las grandes ventajas que tiene el software libre
 - Trabajando en mi proyecto de grado enfocado en sistemas de gestión utilizando frameworks como FastAPI
-- Me gusta mucho aprender sobre automatización de  procesos, asm x86, 
 
 ---
 
@@ -24,5 +23,5 @@ Estoy aprendiendo ensamblador x86_32, ya que pasar de modo real de x86 de x16 a 
 
 ```bash
 Lenguajes      JavaScript intermedio, Swift, Python intermedio, C/C++ basico
-Bases_de _Datos  PostgreSQL | MariaDB | MongoDB
-Herramientas_de_desarrollo   Git | GitHub | Vscode | Vim | AWS (EC2, RDS, DynamoDB, VPC, S3) | Linux (WSL, Ubuntu Server, Kali-Linux) | NodeJs
+Bases_de_Datos  PostgreSQL | MariaDB | MongoDB
+Herramientas_de_desarrollo   Git | GitHub | Vim | AWS (EC2, RDS, DynamoDB, VPC, S3) | Linux (Ubuntu Server, Kali-Linux) | NodeJs
