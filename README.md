@@ -22,6 +22,6 @@ Estoy aprendiendo ensamblador x86_32, ya que pasar de modo real de x86 de x16 a 
 ### Tecnologías que manejo
 
 ```bash
-Lenguajes      JavaScript intermedio, Swift, Python intermedio, C/C++ basico
+Lenguajes      JavaScript intermedio, Swift, Python intermedio (FastAPI como framework), C/C++ basico
 Bases_de_Datos  PostgreSQL | MariaDB | MongoDB
 Herramientas_de_desarrollo   Git | GitHub | Vim | AWS (EC2, RDS, DynamoDB, VPC, S3) | Linux (Ubuntu Server, Kali-Linux) | NodeJs
